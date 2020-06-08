@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "type": "multiple",
+        "question": "Qui est le pire ennemi de Robin ?",
+        "correctAnswer": "Macron",
+        "incorrectAnswers": ["Franklin la tortue", "Yugi", "Bart Simpson"],
+        "answers": ["Franklin la tortue","Macron","Yu-gi-oh","Bart Simpson"]
+    },
+    {
+        "id": 2,
+        "type": "trueFalse",
+        "question": "whuddup?",
+        "correctAnswer": "Vrai",
+        "incorrectAnswers": ["Faux"],
+        "answers": ["Vrai","Faux"]
+    },
+    {
+        "id": 3,
+        "type": "multiple",
+        "question": "Blabla?",
+        "correctAnswer": "Bla",
+        "incorrectAnswers": ["Blabla","Blablabla","Blablablabla"],
+        "answers": ["Bla","Blabla","Blablabla","Blablablabla"]
+    }
+]

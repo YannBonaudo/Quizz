@@ -1,0 +1,21 @@
+.Quizz-header {
+background-color: #76d0f3;
+min-height: 100vh;
+}
+
+.Quizz-card {
+    align-content: stretch;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 40%;
+    
+}
+
+.answer-div{
+    cursor: pointer;
+    display: grid;
+    margin-left: 33%;
+    margin-top: 50px;
+    grid-template-columns: 25% 25%;
+    grid-template-rows: 100px 100px;
+    text-align: center;
+}

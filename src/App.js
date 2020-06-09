@@ -5,9 +5,10 @@ import Quizz from './Quizz/Quizz';
 function App() {
   return (
     <div className="App">
-          <Quizz />
+      <Quizz />
     </div>
   );
 }
 
 export default App;
+// je fais de la merde
